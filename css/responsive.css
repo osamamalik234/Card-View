@@ -1,0 +1,21 @@
+@media screen and (max-width: 990px) { 
+    .heading h1{
+        font-size: 32px;
+    }
+    .card{
+        width: 45%;
+        margin:  10px;
+        height: auto;
+    }
+}
+  
+  @media screen and (max-width: 768px) {  
+    .card{
+        width: 100%;
+        margin:  10px 0; 
+        min-height: 510px;
+    }
+}
+  
+  @media screen and (max-width: 767px) { 
+}
